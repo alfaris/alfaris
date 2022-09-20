@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @alfaris
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I design and built for Web since 2000s.
+- Currently Working as Product & UX Designer
+- 👀 I’m interested in Astronamy, Equestrian.
+- 🌱 I’m currently learning Design Ops, Python, Data Analysis.
+- 📫 How to reach me ... Through My Website [[faris.design]]
 
 <!---
 alfaris/alfaris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
