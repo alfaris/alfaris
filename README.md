@@ -45,9 +45,9 @@ const faris = {
 
 <table align="center">
   <tr>
-    <td align="center" width="25%"><h1>15+</h1><sub>years designing products</sub></td>
-    <td align="center" width="25%"><h1>100M+</h1><sub>Egyptians served by <b>Digital Egypt</b></sub></td>
-    <td align="center" width="25%"><h1>10K+</h1><sub>learners taught · ⭐ 4.8 on Udemy</sub></td>
+    <td align="center" width="33%"><h1>15+</h1><sub>years designing products</sub></td>
+    <td align="center" width="33%"><h1>100M+</h1><sub>Egyptians served by <b>Digital Egypt</b></sub></td>
+    <td align="center" width="33%"><h1>10K+</h1><sub>learners taught · ⭐ 4.8 on Udemy</sub></td>
   </tr>
 </table>
 
@@ -75,22 +75,6 @@ const faris = {
 - 🌠 **[Al Mejarra المجرة](https://www.almejarra.com)** — Founder & Co-owner · coworking space in Zagazig · *2014 → now*
 - ✈️ **[Travel Buddies بالعربي](https://www.tba.eg)** — Co-founder & Managing Partner · *2020 → now*
 - 🧠 **[XPR Community خِبِر](https://www.xprcommunity.com)** — Founder & Instructor · *2026 → now*
-
-## 📌 Pinned repos
-
-> Open-source AI skills for designers & creators, plus a few of the products I've built in the open.
-
-<p align="center">
-  <a href="https://github.com/alfaris/Design-AI-Skills"><img width="400" src="./assets/repos/Design-AI-Skills.svg" alt="Design-AI-Skills"/></a>
-  <a href="https://github.com/alfaris/full-production-studio"><img width="400" src="./assets/repos/full-production-studio.svg" alt="full-production-studio"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/alfaris/Historic-Explorer"><img width="400" src="./assets/repos/Historic-Explorer.svg" alt="Historic-Explorer"/></a>
-  <a href="https://github.com/alfaris/Honeymoon-Planner-AI"><img width="400" src="./assets/repos/Honeymoon-Planner-AI.svg" alt="Honeymoon-Planner-AI"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/alfaris/almejarra-website"><img width="400" src="./assets/repos/almejarra-website.svg" alt="almejarra-website"/></a>
-</p>
 
 ## 🛠️ Toolbox
 
