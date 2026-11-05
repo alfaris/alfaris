@@ -105,6 +105,16 @@ const faris = {
   </a>
 </p>
 
+## 🌙 Off the clock
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">🔭<br/><b>Stargazing</b><br/><sub>Astronomy nerd: happiest under a dark sky</sub></td>
+    <td align="center" width="33%">🐎<br/><b>Equestrian</b><br/><sub>Horses, the original user-centred design</sub></td>
+    <td align="center" width="33%">🌱<br/><b>Always learning</b><br/><sub>Design Ops · Python · Data analysis</sub></td>
+  </tr>
+</table>
+
 ## 📊 On GitHub
 
 <p align="center">
