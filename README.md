@@ -76,19 +76,6 @@ const faris = {
 - ✈️ **[Travel Buddies بالعربي](https://www.tba.eg)** — Co-founder & Managing Partner · *2020 → now*
 - 🧠 **[XPR Community خِبِر](https://www.xprcommunity.com)** — Founder & Instructor · *2026 → now*
 
-## 🛠️ Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ai,ps,xd,html,css,js,ts,react,nextjs,tailwind,vercel,supabase,wordpress,notion,github&perline=8" alt="Tools"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
-  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google AI Studio"/>
-  <img src="https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white" alt="Codex"/>
-  <img src="https://img.shields.io/badge/Lovable-FF5E9C?style=flat-square&logo=heart&logoColor=white" alt="Lovable"/>
-</p>
-
 ## 🤝 Trusted by
 
 <p align="center">
