@@ -76,22 +76,6 @@ const faris = {
 - ✈️ **[Travel Buddies بالعربي](https://www.tba.eg)** — Co-founder & Managing Partner · *2020 → now*
 - 🧠 **[XPR Community خِبِر](https://www.xprcommunity.com)** — Founder & Instructor · *2026 → now*
 
-## 📌 Pinned repos
-
-> Open-source AI skills for designers & creators, plus a few of the products I've built in the open.
-
-<p align="center">
-  <a href="https://github.com/alfaris/Design-AI-Skills"><img width="400" src="./assets/repos/Design-AI-Skills.svg" alt="Design-AI-Skills"/></a>
-  <a href="https://github.com/alfaris/full-production-studio"><img width="400" src="./assets/repos/full-production-studio.svg" alt="full-production-studio"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/alfaris/Historic-Explorer"><img width="400" src="./assets/repos/Historic-Explorer.svg" alt="Historic-Explorer"/></a>
-  <a href="https://github.com/alfaris/Honeymoon-Planner-AI"><img width="400" src="./assets/repos/Honeymoon-Planner-AI.svg" alt="Honeymoon-Planner-AI"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/alfaris/almejarra-website"><img width="400" src="./assets/repos/almejarra-website.svg" alt="almejarra-website"/></a>
-</p>
-
 ## 🛠️ Toolbox
 
 <p align="center">
