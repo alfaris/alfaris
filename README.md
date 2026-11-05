@@ -45,9 +45,9 @@ const faris = {
 
 <table align="center">
   <tr>
-    <td align="center" width="25%"><h1>15+</h1><sub>years designing products</sub></td>
-    <td align="center" width="25%"><h1>100M+</h1><sub>Egyptians served by <b>Digital Egypt</b></sub></td>
-    <td align="center" width="25%"><h1>10K+</h1><sub>learners taught · ⭐ 4.8 on Udemy</sub></td>
+    <td align="center" width="33%"><h1>15+</h1><sub>years designing products</sub></td>
+    <td align="center" width="33%"><h1>100M+</h1><sub>Egyptians served by <b>Digital Egypt</b></sub></td>
+    <td align="center" width="33%"><h1>10K+</h1><sub>learners taught · ⭐ 4.8 on Udemy</sub></td>
   </tr>
 </table>
 
