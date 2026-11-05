@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Ahmed Faris — Sr. Product Designer, Educator and Mentor">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f0c29"/>
+      <stop offset="0.55" stop-color="#302b63"/>
+      <stop offset="1" stop-color="#24243e"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff8a5c"/>
+      <stop offset="0.5" stop-color="#ff5e9c"/>
+      <stop offset="1" stop-color="#8f7bff"/>
+      <animate attributeName="x1" values="0;1;0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glowA"><stop offset="0" stop-color="#ff5e9c" stop-opacity=".55"/><stop offset="1" stop-color="#ff5e9c" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowB"><stop offset="0" stop-color="#5ce1e6" stop-opacity=".45"/><stop offset="1" stop-color="#5ce1e6" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".05"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <circle cx="1020" cy="70" r="200" fill="url(#glowA)">
+    <animate attributeName="cy" values="70;110;70" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="180" cy="300" r="220" fill="url(#glowB)">
+    <animate attributeName="cx" values="180;260;180" dur="11s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- design-tool motif: selection box with handles -->
+  <g transform="translate(70 92)">
+    <rect x="-14" y="-12" width="500" height="104" fill="none" stroke="#5ce1e6" stroke-width="1.5" stroke-dasharray="6 6">
+      <animate attributeName="stroke-dashoffset" values="0;-24" dur="1.6s" repeatCount="indefinite"/>
+    </rect>
+    <g fill="#0f0c29" stroke="#5ce1e6" stroke-width="1.5">
+      <rect x="-19" y="-17" width="10" height="10"/><rect x="481" y="-17" width="10" height="10"/>
+      <rect x="-19" y="87" width="10" height="10"/><rect x="481" y="87" width="10" height="10"/>
+    </g>
+    <rect x="-14" y="-38" width="108" height="20" rx="4" fill="#5ce1e6"/>
+    <text x="40" y="-24" font-family="ui-monospace,Menlo,monospace" font-size="12" fill="#0f0c29" text-anchor="middle">Frame · Hero</text>
+    <text x="0" y="68" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="78" font-weight="800" fill="url(#txt)" letter-spacing="-2">Ahmed Faris</text>
+  </g>
+
+  <text x="70" y="236" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="26" fill="#e9e6ff">I design digital products <tspan font-style="italic" fill="#ff8a5c">millions of people use.</tspan></text>
+  <text x="70" y="276" font-family="ui-monospace,Menlo,monospace" font-size="16" fill="#a9a4d8">Sr. Product Designer · Educator · Mentor   ·   Designing for the web since 2000</text>
+
+  <!-- cursor -->
+  <g transform="translate(905 190)">
+    <animateTransform attributeName="transform" type="translate" values="905 190; 960 150; 930 215; 905 190" dur="7s" repeatCount="indefinite"/>
+    <path d="M0 0 L0 30 L8 22 L14 36 L19 34 L13 20 L24 20 Z" fill="#ffffff" stroke="#0f0c29" stroke-width="1.5"/>
+    <rect x="22" y="30" width="62" height="22" rx="11" fill="#ff5e9c"/>
+    <text x="53" y="45" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff" text-anchor="middle">Faris</text>
+  </g>
+</svg>
