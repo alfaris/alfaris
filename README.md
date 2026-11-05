@@ -76,6 +76,22 @@ const faris = {
 - ✈️ **[Travel Buddies بالعربي](https://www.tba.eg)** — Co-founder & Managing Partner · *2020 → now*
 - 🧠 **[XPR Community خِبِر](https://www.xprcommunity.com)** — Founder & Instructor · *2026 → now*
 
+## 📌 Pinned repos
+
+> Open-source AI skills for designers & creators, plus a few of the products I've built in the open.
+
+<p align="center">
+  <a href="https://github.com/alfaris/Design-AI-Skills"><img width="400" src="./assets/repos/Design-AI-Skills.svg" alt="Design-AI-Skills"/></a>
+  <a href="https://github.com/alfaris/full-production-studio"><img width="400" src="./assets/repos/full-production-studio.svg" alt="full-production-studio"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/alfaris/Historic-Explorer"><img width="400" src="./assets/repos/Historic-Explorer.svg" alt="Historic-Explorer"/></a>
+  <a href="https://github.com/alfaris/Honeymoon-Planner-AI"><img width="400" src="./assets/repos/Honeymoon-Planner-AI.svg" alt="Honeymoon-Planner-AI"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/alfaris/almejarra-website"><img width="400" src="./assets/repos/almejarra-website.svg" alt="almejarra-website"/></a>
+</p>
+
 ## 🛠️ Toolbox
 
 <p align="center">
@@ -117,8 +133,7 @@ const faris = {
 ## 📊 On GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alfaris&show_icons=true&hide_border=true&theme=radical&bg_color=0f0c29&title_color=ff5e9c&icon_color=5ce1e6&text_color=e9e6ff" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfaris&layout=compact&hide_border=true&theme=radical&bg_color=0f0c29&title_color=ff5e9c&text_color=e9e6ff" alt="Top languages"/>
+  <img src="https://streak-stats.demolab.com?user=alfaris&hide_border=true&background=0f0c29&stroke=302b63&ring=ff5e9c&fire=ff8a5c&currStreakNum=e9e6ff&sideNums=e9e6ff&currStreakLabel=ff5e9c&sideLabels=a9a4d8&dates=a9a4d8" alt="GitHub streak"/>
 </p>
 
 ---
