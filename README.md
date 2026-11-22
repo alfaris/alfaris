@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.afaris.me">
-    <img src="./assets/hero.svg" alt="Ahmed Faris — I design digital products millions of people use" width="100%"/>
+    <img src="./assets/hero.svg" alt="Ahmed Faris — I design for millions and teach thousands" width="100%"/>
   </a>
 </p>
 

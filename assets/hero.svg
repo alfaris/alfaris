@@ -40,7 +40,7 @@
     <text x="0" y="68" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="78" font-weight="800" fill="url(#txt)" letter-spacing="-2">Ahmed Faris</text>
   </g>
 
-  <text x="70" y="236" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="26" fill="#e9e6ff">I design digital products <tspan font-style="italic" fill="#ff8a5c">millions of people use.</tspan></text>
+  <text x="70" y="236" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="26" fill="#e9e6ff">I design for <tspan font-style="italic" fill="#ff8a5c">millions</tspan> and teach <tspan font-style="italic" fill="#ff8a5c">thousands</tspan>.</text>
   <text x="70" y="276" font-family="ui-monospace,Menlo,monospace" font-size="16" fill="#a9a4d8">Sr. Product Designer · Educator · Mentor   ·   Designing for the web since 2000</text>
 
   <!-- cursor -->
